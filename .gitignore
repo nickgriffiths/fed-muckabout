@@ -2,3 +2,5 @@
 *.iml
 *.ipr
 *.swp
+.sass-cache
+out
