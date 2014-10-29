@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nickgriffiths/fed-muckabout/issues"
   },
-  "homepage": "https://github.com/nickgriffiths/fed-muckabout"
+  "homepage": "https://github.com/nickgriffiths/fed-muckabout",
+  "devDependencies": {
+    "gulp": "^3.8.9"
+  }
 }
