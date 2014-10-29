@@ -1,0 +1,24 @@
+{
+  "name": "fed-muckabout",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nickgriffiths/fed-muckabout",
+  "authors": [
+    "Nick Griffiths <nicholas.griffiths@rightmove.co.uk>"
+  ],
+  "description": "A project to play around with front-end development tools, to learn what they do and how to use them.",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0"
+  }
+}
