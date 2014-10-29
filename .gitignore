@@ -4,3 +4,5 @@
 *.swp
 .sass-cache
 out
+npm-debug.log
+node-modules
